@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="Bottom" size="0.050000 0.050000"/>
+        <ImageTarget name="Top" size="0.050000 0.050000"/>
+        <ImageTarget name="front" size="0.050000 0.050000"/>
+        <ImageTarget name="trianglestest2" size="0.050000 0.050000"/>
+        <ImageTarget name="trianglestest1" size="1.000000 1.000000"/>
+        <ImageTarget name="7x7_1000-6_2" size="1.000000 1.000000"/>
+        <ImageTarget name="testaruco7by7" size="0.050000 0.050000"/>
+        <ImageTarget name="testaruco3" size="0.050000 0.050000"/>
+        <ImageTarget name="testaruco2" size="0.050000 0.050000"/>
+        <ImageTarget name="testaruco1" size="0.050000 0.050000"/>
+        <ImageTarget name="testimage2" size="1.000000 1.000000"/>
+        <ImageTarget name="testimage" size="1.000000 1.000000"/>
+        <ImageTarget name="Cube2.Bottom" size="0.050000 0.050000"/>
+        <ImageTarget name="Cube2.Top" size="0.050000 0.050000"/>
+        <ImageTarget name="Cube2.Back" size="0.050000 0.050000"/>
+        <ImageTarget name="Cube2.Left" size="0.050000 0.050000"/>
+        <ImageTarget name="Cube2.Right" size="0.050000 0.050000"/>
+        <ImageTarget name="Cube2.Front" size="0.050000 0.050000"/>
+        <ImageTarget name="arucocube.Bottom" size="0.050000 0.050000"/>
+        <ImageTarget name="arucocube.Top" size="0.050000 0.050000"/>
+        <ImageTarget name="arucocube.Back" size="0.050000 0.050000"/>
+        <ImageTarget name="arucocube.Left" size="0.050000 0.050000"/>
+        <ImageTarget name="arucocube.Right" size="0.050000 0.050000"/>
+        <ImageTarget name="arucocube.Front" size="0.050000 0.050000"/>
+        <MultiTarget name="Cube2">
+            <Part name="Cube2.Left" translation="-0.02500000037252903 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Cube2.Right" translation="0.02500000037252903 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Cube2.Front" translation="0 0 0.02500000037252903" rotation="AD: 1 0 0 0"/>
+            <Part name="Cube2.Back" translation="0 0 -0.02500000037252903" rotation="AD: 0 1 0 180"/>
+            <Part name="Cube2.Top" translation="0 0.02500000037252903 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="Cube2.Bottom" translation="0 -0.02500000037252903 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="arucocube">
+            <Part name="arucocube.Left" translation="-0.02500000037252903 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="arucocube.Right" translation="0.02500000037252903 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="arucocube.Front" translation="0 0 0.02500000037252903" rotation="AD: 1 0 0 0"/>
+            <Part name="arucocube.Back" translation="0 0 -0.02500000037252903" rotation="AD: 0 1 0 180"/>
+            <Part name="arucocube.Top" translation="0 0.02500000037252903 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="arucocube.Bottom" translation="0 -0.02500000037252903 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.offaxisprojection.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Will Mullins\\Documents\\Bristol\\Summer Internship 2021\\Unity Projects\\Repo\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "off-axis-projection [Testing]"
+        }
+      }
+    }
+  ]
+}
